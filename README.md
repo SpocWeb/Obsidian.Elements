@@ -1,2 +1,3 @@
-# Obsidian_astro
-Shared astronomical Facts
+# Obsidian.Elements
+Shared Facts about chemical Elements
+
