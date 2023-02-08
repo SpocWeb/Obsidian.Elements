@@ -1,6 +1,8 @@
 # Obsidian.Elements
 Shared Facts about chemical Elements
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 > A **Chemical element** is a chemical substance that cannot be broken down into other substances. The basic particle that constitutes a chemical element is the atom, and chemical elements are distinguished from each other by the number of protons in the nuclei of their atoms. This is in contrast to chemical compounds and mixtures.
 >
 > Almost all of the baryonic matter of the universe is composed of chemical elements (among rare exceptions are neutron stars).  When different elements undergo chemical reactions, atoms are rearranged into new compounds held together by chemical bonds. Only a minority of elements, such as silver and gold, are found uncombined as relatively pure native element minerals. Nearly all other naturally occurring elements occur in the Earth as compounds or mixtures. Air is primarily a mixture of the elements nitrogen, oxygen, and argon, though it does contain compounds including carbon dioxide and water.
