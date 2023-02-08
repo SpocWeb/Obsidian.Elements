@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-08-Iron
 ---
-[SpocWeb-Id::21942]
+[[SpocWebEntityId::21942]
 [Name-en::Ruthenium]
 [Name-de::Ruthenium]
 [Abbr::Ru]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-06-Chromium
 ---
-[SpocWeb-Id::21924]
+[[SpocWebEntityId::21924]
 [Name-en::Chromium]
 [Name-de::Chrom]
 [Abbr::Cr]

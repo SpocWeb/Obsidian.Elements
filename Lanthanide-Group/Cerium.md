@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21954]
+[[SpocWebEntityId::21954]
 [Name-en::Cerium]
 [Name-de::Cer]
 [Abbr::Ce]

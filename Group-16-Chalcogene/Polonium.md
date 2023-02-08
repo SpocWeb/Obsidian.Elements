@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-16-Chalcogene
 ---
-[SpocWeb-Id::21979]
+[[SpocWebEntityId::21979]
 [Name-en::Polonium]
 [Name-de::Polonium]
 [Abbr::Po]

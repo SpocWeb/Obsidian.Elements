@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-10-Nickel
 ---
-[SpocWeb-Id::21927]
+[[SpocWebEntityId::21927]
 [Name-en::Nickel]
 [Name-de::Nickel]
 [Abbr::Ni]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21962]
+[[SpocWebEntityId::21962]
 [Name-en::Dysprosium]
 [Name-de::Dysprosium]
 [Abbr::Dy]

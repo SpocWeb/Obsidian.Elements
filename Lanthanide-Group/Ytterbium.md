@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21966]
+[[SpocWebEntityId::21966]
 [Name-en::Ytterbium]
 [Name-de::Ytterbium]
 [Abbr::Yb]

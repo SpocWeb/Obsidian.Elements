@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-07-Manganese
 ---
-[SpocWeb-Id::21925]
+[[SpocWebEntityId::21925]
 [Name-en::Manganese]
 [Name-de::Mangan]
 [Abbr::Mn]

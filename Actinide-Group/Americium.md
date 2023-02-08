@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[SpocWeb-Id::21990]
+[[SpocWebEntityId::21990]
 [Name-en::Americium]
 [Name-de::Americium]
 [Abbr::Am]

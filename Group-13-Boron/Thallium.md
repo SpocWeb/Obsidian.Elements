@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-13-Boron
 ---
-[SpocWeb-Id::21976]
+[[SpocWebEntityId::21976]
 [Name-en::Thallium]
 [Name-de::Thallium]
 [Abbr::Tl]

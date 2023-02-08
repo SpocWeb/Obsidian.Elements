@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-15-Nitrogen
 ---
-[SpocWeb-Id::21931]
+[[SpocWebEntityId::21931]
 [Name-en::Arsenic]
 [Name-de::Arsen]
 [Abbr::As]

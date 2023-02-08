@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-07-Manganese
 ---
-[SpocWeb-Id::21941]
+[[SpocWebEntityId::21941]
 [Name-en::Technetium]
 [Name-de::Technetium]
 [Abbr::Tc]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-18-Nobel-Gases
 ---
-[SpocWeb-Id::21950]
+[[SpocWebEntityId::21950]
 [Name-en::Xenon]
 [Name-de::Xenon]
 [Abbr::Xe]

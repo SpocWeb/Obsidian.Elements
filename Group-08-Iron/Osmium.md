@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-08-Iron
 ---
-[SpocWeb-Id::21972]
+[[SpocWebEntityId::21972]
 [Name-en::Osmium]
 [Name-de::Osmium]
 [Abbr::Os]

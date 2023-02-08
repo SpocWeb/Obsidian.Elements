@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-06-Chromium
 ---
-[SpocWeb-Id::21940]
+[[SpocWebEntityId::21940]
 [Name-en::Molybdenum]
 [Name-de::Molybdaen]
 [Abbr::Mo]

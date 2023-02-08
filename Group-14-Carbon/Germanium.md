@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-14-Carbon
 ---
-[SpocWeb-Id::21930]
+[[SpocWebEntityId::21930]
 [Name-en::Germanium]
 [Name-de::Germanium]
 [Abbr::Ge]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-18-Nobel-Gases
 ---
-[SpocWeb-Id::21981]
+[[SpocWebEntityId::21981]
 [Name-en::Radon]
 [Name-de::Radon]
 [Abbr::Rn]

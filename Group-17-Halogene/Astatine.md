@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-17-Halogene
 ---
-[SpocWeb-Id::21980]
+[[SpocWebEntityId::21980]
 [Name-en::Astatine]
 [Name-de::Astat]
 [Abbr::At]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-06-Chromium
 ---
-[SpocWeb-Id::21970]
+[[SpocWebEntityId::21970]
 [Name-en::Tungsten]
 [Name-de::Wolfram]
 [Abbr::W]

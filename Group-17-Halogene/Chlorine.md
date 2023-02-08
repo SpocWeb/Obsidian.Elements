@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-17-Halogene
 ---
-[SpocWeb-Id::21918]
+[[SpocWebEntityId::21918]
 [Name-en::Chlorine]
 [Name-de::Chlor]
 [Abbr::Cl]

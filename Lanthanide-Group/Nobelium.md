@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21997]
+[[SpocWebEntityId::21997]
 [Name-en::Nobelium]
 [Name-de::Nobelium]
 [Abbr::No]

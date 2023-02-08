@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-15-Nitrogen
 ---
-[SpocWeb-Id::21916]
+[[SpocWebEntityId::21916]
 [Name-en::Phosphorus]
 [Name-de::Phosphor]
 [Abbr::P]

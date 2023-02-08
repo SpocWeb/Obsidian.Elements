@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-11-Copper
 ---
-[SpocWeb-Id::6012]
+[[SpocWebEntityId::6012]
 [Name-en::Copper]
 [Name-de::Kupfer]
 [Abbr::Cu]

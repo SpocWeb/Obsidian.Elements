@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21957]
+[[SpocWebEntityId::21957]
 [Name-en::Promethium]
 [Name-de::Promethium]
 [Abbr::Pm]

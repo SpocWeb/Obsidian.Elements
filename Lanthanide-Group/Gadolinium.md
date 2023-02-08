@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21960]
+[[SpocWebEntityId::21960]
 [Name-en::Gadolinium]
 [Name-de::Gadolinium]
 [Abbr::Gd]

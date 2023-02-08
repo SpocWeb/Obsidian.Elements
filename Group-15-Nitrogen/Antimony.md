@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-15-Nitrogen
 ---
-[SpocWeb-Id::21947]
+[[SpocWebEntityId::21947]
 [Name-en::Antimony]
 [Name-de::Antimon]
 [Abbr::Sb]

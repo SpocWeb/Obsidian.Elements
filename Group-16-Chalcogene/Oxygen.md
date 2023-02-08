@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-16-Chalcogene
 ---
-[SpocWeb-Id::21910]
+[[SpocWebEntityId::21910]
 [Name-en::Oxygen]
 [Name-de::Sauerstoff]
 [Abbr::O]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-18-Nobel-Gases
 ---
-[SpocWeb-Id::21919]
+[[SpocWebEntityId::21919]
 [Name-en::Argon]
 [Name-de::Argon]
 [Abbr::Ar]

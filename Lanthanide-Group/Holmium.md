@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21963]
+[[SpocWebEntityId::21963]
 [Name-en::Holmium]
 [Name-de::Holmium]
 [Abbr::Ho]

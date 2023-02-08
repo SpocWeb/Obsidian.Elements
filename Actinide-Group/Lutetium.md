@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[SpocWeb-Id::21967]
+[[SpocWebEntityId::21967]
 [Name-en::Lutetium]
 [Name-de::Lutetium]
 [Abbr::Lu]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-09-Cobalt
 ---
-[SpocWeb-Id::21973]
+[[SpocWebEntityId::21973]
 [Name-en::Iridium]
 [Name-de::Iridium]
 [Abbr::Ir]

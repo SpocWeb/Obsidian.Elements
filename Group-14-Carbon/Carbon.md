@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-14-Carbon
 ---
-[SpocWeb-Id::21480]
+[[SpocWebEntityId::21480]
 [Name-en::Carbon]
 [Name-de::Kohlenstoff]
 [Abbr::C]

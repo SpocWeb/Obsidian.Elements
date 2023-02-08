@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21956]
+[[SpocWebEntityId::21956]
 [Name-en::Neodymium]
 [Name-de::Neodym]
 [Abbr::Nd]

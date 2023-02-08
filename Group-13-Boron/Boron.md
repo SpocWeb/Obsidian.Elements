@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-13-Boron
 ---
-[SpocWeb-Id::21908]
+[[SpocWebEntityId::21908]
 [Name-en::Boron]
 [Name-de::Bor]
 [Abbr::B]

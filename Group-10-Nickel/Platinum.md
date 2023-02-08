@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-10-Nickel
 ---
-[SpocWeb-Id::21974]
+[[SpocWebEntityId::21974]
 [Name-en::Platinum]
 [Name-de::Platin]
 [Abbr::Pt]

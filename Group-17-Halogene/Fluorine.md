@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-17-Halogene
 ---
-[SpocWeb-Id::21911]
+[[SpocWebEntityId::21911]
 [Name-en::Fluorine]
 [Name-de::Fluor]
 [Abbr::F]

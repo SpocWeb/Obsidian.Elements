@@ -2,7 +2,7 @@
 type: Element
 tags: [Element]
 ---
-[SpocWeb-Id::{{KWebEntityId}}]
+[[SpocWebEntityId::{{KWebEntityId}}]
 [Name-en::{{English}}]
 [Name-de::{{Deutsch}}]
 [Abbr::{{Abbreviation}}]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-13-Boron
 ---
-[SpocWeb-Id::21929]
+[[SpocWebEntityId::21929]
 [Name-en::Gallium]
 [Name-de::Gallium]
 [Abbr::Ga]

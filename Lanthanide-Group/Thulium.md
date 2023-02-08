@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21965]
+[[SpocWebEntityId::21965]
 [Name-en::Thulium]
 [Name-de::Thulium]
 [Abbr::Tm]

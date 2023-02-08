@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-14-Carbon
 ---
-[SpocWeb-Id::3285]
+[[SpocWebEntityId::3285]
 [Name-en::Tin]
 [Name-de::Zinn]
 [Abbr::Sn]

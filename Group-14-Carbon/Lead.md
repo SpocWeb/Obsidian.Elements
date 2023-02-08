@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-14-Carbon
 ---
-[SpocWeb-Id::21977]
+[[SpocWebEntityId::21977]
 [Name-en::Lead]
 [Name-de::Blei]
 [Abbr::Pb]

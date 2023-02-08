@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-15-Nitrogen
 ---
-[SpocWeb-Id::21909]
+[[SpocWebEntityId::21909]
 [Name-en::Nitrogen]
 [Name-de::Stickstoff]
 [Abbr::N]

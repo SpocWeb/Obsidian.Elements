@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-08-Iron
 ---
-[SpocWeb-Id::16528]
+[[SpocWebEntityId::16528]
 [Name-en::Iron]
 [Name-de::Eisen]
 [Abbr::Fe]

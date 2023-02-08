@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[SpocWeb-Id::21985]
+[[SpocWebEntityId::21985]
 [Name-en::Thorium]
 [Name-de::Thorium]
 [Abbr::Th]

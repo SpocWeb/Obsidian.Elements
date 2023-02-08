@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-18-Nobel-Gases
 ---
-[SpocWeb-Id::21912]
+[[SpocWebEntityId::21912]
 [Name-en::Neon]
 [Name-de::Neon]
 [Abbr::Ne]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-16-Chalcogene
 ---
-[SpocWeb-Id::21917]
+[[SpocWebEntityId::21917]
 [Name-en::Sulfur]
 [Name-de::Schwefel]
 [Abbr::S]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-12-Zinc
 ---
-[SpocWeb-Id::21928]
+[[SpocWebEntityId::21928]
 [Name-en::Zinc]
 [Name-de::Zink]
 [Abbr::Zn]

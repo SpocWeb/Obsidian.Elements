@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21955]
+[[SpocWebEntityId::21955]
 [Name-en::Praseodymium]
 [Name-de::Praseodym]
 [Abbr::Pr]

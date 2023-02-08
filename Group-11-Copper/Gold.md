@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-11-Copper
 ---
-[SpocWeb-Id::17995]
+[[SpocWebEntityId::17995]
 [Name-en::Gold]
 [Name-de::Gold]
 [Abbr::Au]

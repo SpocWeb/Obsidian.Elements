@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-07-Manganese
 ---
-[SpocWeb-Id::21971]
+[[SpocWebEntityId::21971]
 [Name-en::Rhenium]
 [Name-de::Rhenium]
 [Abbr::Re]

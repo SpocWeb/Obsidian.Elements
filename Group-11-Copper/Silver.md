@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-11-Copper
 ---
-[SpocWeb-Id::17799]
+[[SpocWebEntityId::17799]
 [Name-en::Silver]
 [Name-de::Silber]
 [Abbr::Ag]

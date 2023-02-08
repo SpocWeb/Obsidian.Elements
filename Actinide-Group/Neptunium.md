@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[SpocWeb-Id::21988]
+[[SpocWebEntityId::21988]
 [Name-en::Neptunium]
 [Name-de::Neptunium]
 [Abbr::Np]

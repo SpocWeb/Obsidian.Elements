@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-17-Halogene
 ---
-[SpocWeb-Id::21933]
+[[SpocWebEntityId::21933]
 [Name-en::Bromine]
 [Name-de::Brom]
 [Abbr::Br]

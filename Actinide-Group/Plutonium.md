@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[SpocWeb-Id::21989]
+[[SpocWebEntityId::21989]
 [Name-en::Plutonium]
 [Name-de::Plutonium]
 [Abbr::Pu]

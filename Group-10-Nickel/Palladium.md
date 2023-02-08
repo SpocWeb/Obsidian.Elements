@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-10-Nickel
 ---
-[SpocWeb-Id::21944]
+[[SpocWebEntityId::21944]
 [Name-en::Palladium]
 [Name-de::Palladium]
 [Abbr::Pd]

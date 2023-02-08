@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-17-Halogene
 ---
-[SpocWeb-Id::21949]
+[[SpocWebEntityId::21949]
 [Name-en::Iodine]
 [Name-de::Iod]
 [Abbr::I]

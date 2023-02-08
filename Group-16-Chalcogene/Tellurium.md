@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-16-Chalcogene
 ---
-[SpocWeb-Id::21948]
+[[SpocWebEntityId::21948]
 [Name-en::Tellurium]
 [Name-de::Tellur]
 [Abbr::Te]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-09-Cobalt
 ---
-[SpocWeb-Id::21926]
+[[SpocWebEntityId::21926]
 [Name-en::Cobalt]
 [Name-de::Kobalt]
 [Abbr::Co]

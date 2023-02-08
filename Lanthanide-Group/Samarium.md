@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21958]
+[[SpocWebEntityId::21958]
 [Name-en::Samarium]
 [Name-de::Samarium]
 [Abbr::Sm]

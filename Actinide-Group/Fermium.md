@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[SpocWeb-Id::21995]
+[[SpocWebEntityId::21995]
 [Name-en::Fermium]
 [Name-de::Fermium]
 [Abbr::Fm]

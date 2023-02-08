@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-12-Zinc
 ---
-[SpocWeb-Id::21975]
+[[SpocWebEntityId::21975]
 [Name-en::Mercury]
 [Name-de::Quecksilber]
 [Abbr::Hg]

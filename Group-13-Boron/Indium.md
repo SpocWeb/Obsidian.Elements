@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-13-Boron
 ---
-[SpocWeb-Id::21946]
+[[SpocWebEntityId::21946]
 [Name-en::Indium]
 [Name-de::Indium]
 [Abbr::In]

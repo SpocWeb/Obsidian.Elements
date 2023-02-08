@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21959]
+[[SpocWebEntityId::21959]
 [Name-en::Europium]
 [Name-de::Europium]
 [Abbr::Eu]

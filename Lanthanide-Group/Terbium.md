@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21961]
+[[SpocWebEntityId::21961]
 [Name-en::Terbium]
 [Name-de::Terbium]
 [Abbr::Tb]

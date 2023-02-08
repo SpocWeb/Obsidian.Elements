@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-12-Zinc
 ---
-[SpocWeb-Id::21945]
+[[SpocWebEntityId::21945]
 [Name-en::Cadmium]
 [Name-de::Cadmium]
 [Abbr::Cd]

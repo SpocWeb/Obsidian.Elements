@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-05-Vanadium
 ---
-[SpocWeb-Id::21923]
+[[SpocWebEntityId::21923]
 [Name-en::Vanadium]
 [Name-de::Vanadium]
 [Abbr::V]

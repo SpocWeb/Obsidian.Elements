@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-15-Nitrogen
 ---
-[SpocWeb-Id::21978]
+[[SpocWebEntityId::21978]
 [Name-en::Bismuth]
 [Name-de::Bismut]
 [Abbr::Bi]

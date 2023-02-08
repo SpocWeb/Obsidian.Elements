@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-18-Nobel-Gases
 ---
-[SpocWeb-Id::21934]
+[[SpocWebEntityId::21934]
 [Name-en::Krypton]
 [Name-de::Krypton]
 [Abbr::Kr]

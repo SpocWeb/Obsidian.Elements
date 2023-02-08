@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-05-Vanadium
 ---
-[SpocWeb-Id::21969]
+[[SpocWebEntityId::21969]
 [Name-en::Tantalum]
 [Name-de::Tantal]
 [Abbr::Ta]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-18-Nobel-Gases
 ---
-[SpocWeb-Id::21905]
+[[SpocWebEntityId::21905]
 [Name-en::Helium]
 [Name-de::Helium]
 [Abbr::He]

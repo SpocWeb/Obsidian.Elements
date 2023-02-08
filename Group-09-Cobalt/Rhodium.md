@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-09-Cobalt
 ---
-[SpocWeb-Id::21943]
+[[SpocWebEntityId::21943]
 [Name-en::Rhodium]
 [Name-de::Rhodium]
 [Abbr::Rh]

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-14-Carbon
 ---
-[SpocWeb-Id::21915]
+[[SpocWebEntityId::21915]
 [Name-en::Silicon]
 [Name-de::Silicium]
 [Abbr::Si]

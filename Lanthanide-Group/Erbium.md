@@ -2,7 +2,7 @@
 type: Element
 GroupName: Lanthanide-Group
 ---
-[SpocWeb-Id::21964]
+[[SpocWebEntityId::21964]
 [Name-en::Erbium]
 [Name-de::Erbium]
 [Abbr::Er]

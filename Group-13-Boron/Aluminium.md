@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-13-Boron
 ---
-[SpocWeb-Id::9523]
+[[SpocWebEntityId::9523]
 [Name-en::Aluminium]
 [Name-de::Aluminium]
 [Abbr::Al]
