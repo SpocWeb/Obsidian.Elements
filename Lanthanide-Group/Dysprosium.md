@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21962]
 [Name-en::Dysprosium]
 [Name-de::Dysprosium]
-[Abbr::Dy]
+(Abbr::Dy)
 [Weight-u::162.5]
 [AtomRadius::2.49]
 [Atom-Vol-ccm-mol::19]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.107]
 [Enthalpy::11.06]
 [FormEnergy-kj-mol::230]
-[PeriodNo::6]
-[GroupNo::32]
+(PeriodNo::6)
+(GroupNo::32)
 []
-[Charge-e::66]
+(Charge-e::66)
 

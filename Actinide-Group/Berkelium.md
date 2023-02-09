@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21992]
 [Name-en::Berkelium]
 [Name-de::Berkelium]
-[Abbr::Bk]
+(Abbr::Bk)
 [Weight-u::247]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::31]
+(PeriodNo::7)
+(GroupNo::31)
 []
-[Charge-e::97]
+(Charge-e::97)
 

@@ -5,7 +5,7 @@ GroupName: Group-13-Boron
 [[SpocWebEntityId::21908]
 [Name-en::Boron]
 [Name-de::Bor]
-[Abbr::B]
+(Abbr::B)
 [Weight-u::10.811]
 [AtomRadius::1.17]
 [Atom-Vol-ccm-mol::4.6]
@@ -19,8 +19,8 @@ GroupName: Group-13-Boron
 [HeatConduct::0.27]
 [Enthalpy::50.2]
 [FormEnergy-kj-mol::489.7]
-[PeriodNo::2]
-[GroupNo::13]
+(PeriodNo::2)
+(GroupNo::13)
 []
-[Charge-e::5]
+(Charge-e::5)
 

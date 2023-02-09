@@ -5,7 +5,7 @@ GroupName: Group-17-Halogene
 [[SpocWebEntityId::21911]
 [Name-en::Fluorine]
 [Name-de::Fluor]
-[Abbr::F]
+(Abbr::F)
 [Weight-u::18.9984]
 [AtomRadius::0.57]
 [Atom-Vol-ccm-mol::17.1]
@@ -19,8 +19,8 @@ GroupName: Group-17-Halogene
 [HeatConduct::0.000279]
 [Enthalpy::0.2552]
 [FormEnergy-kj-mol::3.2698]
-[PeriodNo::2]
-[GroupNo::17]
+(PeriodNo::2)
+(GroupNo::17)
 []
-[Charge-e::9]
+(Charge-e::9)
 

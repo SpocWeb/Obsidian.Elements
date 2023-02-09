@@ -5,7 +5,7 @@ GroupName: Group-01-Alkali
 [[SpocWebEntityId::21906]
 [Name-en::Lithium]
 [Name-de::Lithium]
-[Abbr::Li]
+(Abbr::Li)
 [Weight-u::6.941]
 [AtomRadius::2.05]
 [Atom-Vol-ccm-mol::13.1]
@@ -19,9 +19,9 @@ GroupName: Group-01-Alkali
 [HeatConduct::0.847]
 [Enthalpy::3]
 [FormEnergy-kj-mol::145.92]
-[PeriodNo::2]
-[GroupNo::1]
-[Charge-e::3]
+(PeriodNo::2)
+(GroupNo::1)
+(Charge-e::3)
 
 > **Lithium** (from Greek: λίθος, romanized: lithos, lit. 'stone') is a chemical element with the symbol Li and atomic number 3. It is a soft, silvery-white alkali metal. Under standard conditions, it is the least dense metal and the least dense solid element. Like all alkali metals, lithium is highly reactive and flammable, and must be stored in vacuum, inert atmosphere, or inert liquid such as purified kerosene or mineral oil. When cut, it exhibits a metallic luster, but moist air corrodes it quickly to a dull silvery gray, then black tarnish. It never occurs freely in nature, but only in (usually ionic) compounds, such as pegmatitic minerals, which were once the main source of lithium. Due to its solubility as an ion, it is present in ocean water and is commonly obtained from brines. Lithium metal is isolated electrolytically from a mixture of lithium chloride and potassium chloride.
 >

@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21959]
 [Name-en::Europium]
 [Name-de::Europium]
-[Abbr::Eu]
+(Abbr::Eu)
 [Weight-u::151.96]
 [AtomRadius::2.56]
 [Atom-Vol-ccm-mol::28.9]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.139]
 [Enthalpy::9.21]
 [FormEnergy-kj-mol::143.5]
-[PeriodNo::6]
-[GroupNo::29]
+(PeriodNo::6)
+(GroupNo::29)
 []
-[Charge-e::63]
+(Charge-e::63)
 

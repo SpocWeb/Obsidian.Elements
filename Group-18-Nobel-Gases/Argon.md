@@ -5,7 +5,7 @@ GroupName: Group-18-Nobel-Gases
 [[SpocWebEntityId::21919]
 [Name-en::Argon]
 [Name-de::Argon]
-[Abbr::Ar]
+(Abbr::Ar)
 [Weight-u::39.948]
 [AtomRadius::0.51]
 [Atom-Vol-ccm-mol::16.7]
@@ -19,8 +19,8 @@ GroupName: Group-18-Nobel-Gases
 [HeatConduct::0.000493]
 [Enthalpy::0.3317]
 [FormEnergy-kj-mol::1.7326]
-[PeriodNo::3]
-[GroupNo::18]
+(PeriodNo::3)
+(GroupNo::18)
 []
-[Charge-e::18]
+(Charge-e::18)
 

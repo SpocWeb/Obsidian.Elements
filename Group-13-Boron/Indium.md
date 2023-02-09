@@ -5,7 +5,7 @@ GroupName: Group-13-Boron
 [[SpocWebEntityId::21946]
 [Name-en::Indium]
 [Name-de::Indium]
-[Abbr::In]
+(Abbr::In)
 [Weight-u::114.82]
 [AtomRadius::2]
 [Atom-Vol-ccm-mol::15.7]
@@ -19,8 +19,8 @@ GroupName: Group-13-Boron
 [HeatConduct::0.816]
 [Enthalpy::3.263]
 [FormEnergy-kj-mol::231.5]
-[PeriodNo::5]
-[GroupNo::13]
+(PeriodNo::5)
+(GroupNo::13)
 []
-[Charge-e::49]
+(Charge-e::49)
 

@@ -5,7 +5,7 @@ GroupName: Group-15-Nitrogen
 [[SpocWebEntityId::21978]
 [Name-en::Bismuth]
 [Name-de::Bismut]
-[Abbr::Bi]
+(Abbr::Bi)
 [Weight-u::208.9804]
 [AtomRadius::1.63]
 [Atom-Vol-ccm-mol::21.3]
@@ -19,8 +19,8 @@ GroupName: Group-15-Nitrogen
 [HeatConduct::0.0787]
 [Enthalpy::11.3]
 [FormEnergy-kj-mol::104.8]
-[PeriodNo::6]
-[GroupNo::15]
+(PeriodNo::6)
+(GroupNo::15)
 []
-[Charge-e::83]
+(Charge-e::83)
 

@@ -5,7 +5,7 @@ GroupName: Group-14-Carbon
 [[SpocWebEntityId::21977]
 [Name-en::Lead]
 [Name-de::Blei]
-[Abbr::Pb]
+(Abbr::Pb)
 [Weight-u::207.2]
 [AtomRadius::1.81]
 [Atom-Vol-ccm-mol::18.17]
@@ -19,8 +19,8 @@ GroupName: Group-14-Carbon
 [HeatConduct::0.353]
 [Enthalpy::4.799]
 [FormEnergy-kj-mol::177.7]
-[PeriodNo::6]
-[GroupNo::14]
+(PeriodNo::6)
+(GroupNo::14)
 []
-[Charge-e::82]
+(Charge-e::82)
 

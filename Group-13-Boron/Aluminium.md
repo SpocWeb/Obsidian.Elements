@@ -5,7 +5,7 @@ GroupName: Group-13-Boron
 [[SpocWebEntityId::9523]
 [Name-en::Aluminium]
 [Name-de::Aluminium]
-[Abbr::Al]
+(Abbr::Al)
 [Weight-u::26.9815]
 [AtomRadius::1.82]
 [Atom-Vol-ccm-mol::10]
@@ -19,8 +19,8 @@ GroupName: Group-13-Boron
 [HeatConduct::2.37]
 [Enthalpy::10.79]
 [FormEnergy-kj-mol::293.4]
-[PeriodNo::3]
-[GroupNo::13]
+(PeriodNo::3)
+(GroupNo::13)
 []
-[Charge-e::13]
+(Charge-e::13)
 

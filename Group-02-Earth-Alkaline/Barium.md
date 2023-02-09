@@ -21,7 +21,7 @@ GroupName: Group-02-Earth-Alkaline
 [[SpocWebEntityId::21952]
 
 
-> **Barium** is a chemical element with the symbol [Abbr::Ba] and atomic number [Charge-e::56]. It is the fifth element ([PeriodNo::6]) in group [GroupNo::2] and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element.
+> **Barium** is a chemical element with the symbol (Abbr::Ba) and atomic number (Charge-e::56). It is the fifth element ((PeriodNo::6)) in group (GroupNo::2) and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element.
 >
 > The most common minerals of barium are baryte (barium sulfate, BaSO4) and witherite (barium carbonate, BaCO3). The name barium originates from the alchemical derivative "baryta", from Greek βαρὺς (barys), meaning 'heavy'. Baric is the adjectival form of barium. Barium was identified as a new element in 1774, but not reduced to a metal until 1808 with the advent of electrolysis.
 >

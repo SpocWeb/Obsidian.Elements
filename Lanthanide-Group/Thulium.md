@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21965]
 [Name-en::Thulium]
 [Name-de::Thulium]
-[Abbr::Tm]
+(Abbr::Tm)
 [Weight-u::168.9342]
 [AtomRadius::2.42]
 [Atom-Vol-ccm-mol::18.1]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.168]
 [Enthalpy::16.84]
 [FormEnergy-kj-mol::191]
-[PeriodNo::6]
-[GroupNo::35]
+(PeriodNo::6)
+(GroupNo::35)
 []
-[Charge-e::69]
+(Charge-e::69)
 

@@ -5,7 +5,7 @@ GroupName: Group-14-Carbon
 [[SpocWebEntityId::21915]
 [Name-en::Silicon]
 [Name-de::Silicium]
-[Abbr::Si]
+(Abbr::Si)
 [Weight-u::28.0855]
 [AtomRadius::1.46]
 [Atom-Vol-ccm-mol::12.1]
@@ -19,8 +19,8 @@ GroupName: Group-14-Carbon
 [HeatConduct::1.48]
 [Enthalpy::50.55]
 [FormEnergy-kj-mol::384.22]
-[PeriodNo::3]
-[GroupNo::14]
+(PeriodNo::3)
+(GroupNo::14)
 []
-[Charge-e::14]
+(Charge-e::14)
 

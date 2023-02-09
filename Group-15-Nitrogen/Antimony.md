@@ -5,7 +5,7 @@ GroupName: Group-15-Nitrogen
 [[SpocWebEntityId::21947]
 [Name-en::Antimony]
 [Name-de::Antimon]
-[Abbr::Sb]
+(Abbr::Sb)
 [Weight-u::121.75]
 [AtomRadius::1.53]
 [Atom-Vol-ccm-mol::18.23]
@@ -19,8 +19,8 @@ GroupName: Group-15-Nitrogen
 [HeatConduct::0.243]
 [Enthalpy::19.87]
 [FormEnergy-kj-mol::77.14]
-[PeriodNo::5]
-[GroupNo::15]
+(PeriodNo::5)
+(GroupNo::15)
 []
-[Charge-e::51]
+(Charge-e::51)
 

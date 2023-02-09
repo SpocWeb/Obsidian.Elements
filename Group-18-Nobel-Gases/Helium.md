@@ -5,7 +5,7 @@ GroupName: Group-18-Nobel-Gases
 [[SpocWebEntityId::21905]
 [Name-en::Helium]
 [Name-de::Helium]
-[Abbr::He]
+(Abbr::He)
 [Weight-u::4.0026]
 [AtomRadius::0.49]
 [Atom-Vol-ccm-mol::24.587]
@@ -19,8 +19,8 @@ GroupName: Group-18-Nobel-Gases
 [HeatConduct::0.00152]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0.0845]
-[PeriodNo::1]
-[GroupNo::18]
+(PeriodNo::1)
+(GroupNo::18)
 []
-[Charge-e::2]
+(Charge-e::2)
 

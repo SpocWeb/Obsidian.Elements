@@ -5,7 +5,7 @@ GroupName: Group-10-Nickel
 [[SpocWebEntityId::21944]
 [Name-en::Palladium]
 [Name-de::Palladium]
-[Abbr::Pd]
+(Abbr::Pd)
 [Weight-u::106.42]
 [AtomRadius::1.79]
 [Atom-Vol-ccm-mol::8.9]
@@ -19,8 +19,8 @@ GroupName: Group-10-Nickel
 [HeatConduct::0.718]
 [Enthalpy::17.6]
 [FormEnergy-kj-mol::357]
-[PeriodNo::5]
-[GroupNo::10]
+(PeriodNo::5)
+(GroupNo::10)
 []
-[Charge-e::46]
+(Charge-e::46)
 

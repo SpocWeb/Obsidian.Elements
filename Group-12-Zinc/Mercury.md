@@ -5,7 +5,7 @@ GroupName: Group-12-Zinc
 [[SpocWebEntityId::21975]
 [Name-en::Mercury]
 [Name-de::Quecksilber]
-[Abbr::Hg]
+(Abbr::Hg)
 [Weight-u::200.59]
 [AtomRadius::1.76]
 [Atom-Vol-ccm-mol::14.82]
@@ -19,8 +19,8 @@ GroupName: Group-12-Zinc
 [HeatConduct::0.0834]
 [Enthalpy::2.295]
 [FormEnergy-kj-mol::59.229]
-[PeriodNo::6]
-[GroupNo::12]
+(PeriodNo::6)
+(GroupNo::12)
 []
-[Charge-e::80]
+(Charge-e::80)
 

@@ -5,7 +5,7 @@ GroupName: Group-09-Cobalt
 [[SpocWebEntityId::21973]
 [Name-en::Iridium]
 [Name-de::Iridium]
-[Abbr::Ir]
+(Abbr::Ir)
 [Weight-u::192.22]
 [AtomRadius::1.87]
 [Atom-Vol-ccm-mol::8.54]
@@ -19,8 +19,8 @@ GroupName: Group-09-Cobalt
 [HeatConduct::1.47]
 [Enthalpy::26.1]
 [FormEnergy-kj-mol::604]
-[PeriodNo::6]
-[GroupNo::9]
+(PeriodNo::6)
+(GroupNo::9)
 []
-[Charge-e::77]
+(Charge-e::77)
 

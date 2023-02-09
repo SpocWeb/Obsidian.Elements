@@ -5,7 +5,7 @@ GroupName: Group-14-Carbon
 [[SpocWebEntityId::3285]
 [Name-en::Tin]
 [Name-de::Zinn]
-[Abbr::Sn]
+(Abbr::Sn)
 [Weight-u::118.71]
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::16.3]
@@ -19,8 +19,8 @@ GroupName: Group-14-Carbon
 [HeatConduct::0.666]
 [Enthalpy::7.029]
 [FormEnergy-kj-mol::295.8]
-[PeriodNo::5]
-[GroupNo::14]
+(PeriodNo::5)
+(GroupNo::14)
 []
-[Charge-e::50]
+(Charge-e::50)
 

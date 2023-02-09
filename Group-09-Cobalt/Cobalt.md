@@ -5,7 +5,7 @@ GroupName: Group-09-Cobalt
 [[SpocWebEntityId::21926]
 [Name-en::Cobalt]
 [Name-de::Kobalt]
-[Abbr::Co]
+(Abbr::Co)
 [Weight-u::58.9332]
 [AtomRadius::1.67]
 [Atom-Vol-ccm-mol::6.7]
@@ -19,8 +19,8 @@ GroupName: Group-09-Cobalt
 [HeatConduct::1]
 [Enthalpy::16.19]
 [FormEnergy-kj-mol::376.5]
-[PeriodNo::4]
-[GroupNo::9]
+(PeriodNo::4)
+(GroupNo::9)
 []
-[Charge-e::28]
+(Charge-e::28)
 

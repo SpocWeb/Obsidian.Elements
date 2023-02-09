@@ -5,7 +5,7 @@ GroupName: Group-16-Chalcogene
 [[SpocWebEntityId::21910]
 [Name-en::Oxygen]
 [Name-de::Sauerstoff]
-[Abbr::O]
+(Abbr::O)
 [Weight-u::15.9994]
 [AtomRadius::0.65]
 [Atom-Vol-ccm-mol::14]
@@ -19,8 +19,8 @@ GroupName: Group-16-Chalcogene
 [HeatConduct::0.000267]
 [Enthalpy::0.22259]
 [FormEnergy-kj-mol::3.4099]
-[PeriodNo::2]
-[GroupNo::16]
+(PeriodNo::2)
+(GroupNo::16)
 []
-[Charge-e::8]
+(Charge-e::8)
 

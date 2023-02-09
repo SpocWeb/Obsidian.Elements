@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21989]
 [Name-en::Plutonium]
 [Name-de::Plutonium]
-[Abbr::Pu]
+(Abbr::Pu)
 [Weight-u::242]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::12.32]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.0674]
 [Enthalpy::2.84]
 [FormEnergy-kj-mol::344]
-[PeriodNo::7]
-[GroupNo::28]
+(PeriodNo::7)
+(GroupNo::28)
 []
-[Charge-e::94]
+(Charge-e::94)
 

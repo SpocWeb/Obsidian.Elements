@@ -5,7 +5,7 @@ GroupName: Group-09-Cobalt
 [[SpocWebEntityId::21943]
 [Name-en::Rhodium]
 [Name-de::Rhodium]
-[Abbr::Rh]
+(Abbr::Rh)
 [Weight-u::102.9055]
 [AtomRadius::1.83]
 [Atom-Vol-ccm-mol::8.3]
@@ -19,8 +19,8 @@ GroupName: Group-09-Cobalt
 [HeatConduct::1.5]
 [Enthalpy::21.5]
 [FormEnergy-kj-mol::493]
-[PeriodNo::5]
-[GroupNo::9]
+(PeriodNo::5)
+(GroupNo::9)
 []
-[Charge-e::45]
+(Charge-e::45)
 

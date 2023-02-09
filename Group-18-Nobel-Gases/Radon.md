@@ -5,7 +5,7 @@ GroupName: Group-18-Nobel-Gases
 [[SpocWebEntityId::21981]
 [Name-en::Radon]
 [Name-de::Radon]
-[Abbr::Rn]
+(Abbr::Rn)
 [Weight-u::222]
 [AtomRadius::1.34]
 [Atom-Vol-ccm-mol::50.5]
@@ -19,8 +19,8 @@ GroupName: Group-18-Nobel-Gases
 [HeatConduct::3.6E-05]
 [Enthalpy::2.89]
 [FormEnergy-kj-mol::16.4]
-[PeriodNo::6]
-[GroupNo::18]
+(PeriodNo::6)
+(GroupNo::18)
 []
-[Charge-e::86]
+(Charge-e::86)
 

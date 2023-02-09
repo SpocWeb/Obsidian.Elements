@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21958]
 [Name-en::Samarium]
 [Name-de::Samarium]
-[Abbr::Sm]
+(Abbr::Sm)
 [Weight-u::150.36]
 [AtomRadius::2.59]
 [Atom-Vol-ccm-mol::19.95]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.133]
 [Enthalpy::8.63]
 [FormEnergy-kj-mol::166.4]
-[PeriodNo::6]
-[GroupNo::28]
+(PeriodNo::6)
+(GroupNo::28)
 []
-[Charge-e::62]
+(Charge-e::62)
 

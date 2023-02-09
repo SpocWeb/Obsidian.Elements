@@ -5,7 +5,7 @@ GroupName: Group-01-Alkali
 [[SpocWebEntityId::21904]
 [Name-en::Hydrogenium]
 [Name-de::Wasserstoff]
-[Abbr::H]
+(Abbr::H)
 [Weight-u::1.0079]
 [AtomRadius::0.79]
 [Atom-Vol-ccm-mol::14.4]
@@ -19,9 +19,9 @@ GroupName: Group-01-Alkali
 [HeatConduct::0.001815]
 [Enthalpy::0.05868]
 [FormEnergy-kj-mol::0.44936]
-[PeriodNo::1]
-[GroupNo::1]
-[Charge-e::1]
+(PeriodNo::1)
+(GroupNo::1)
+(Charge-e::1)
 
 > The trihydrogen cation or protonated molecular hydrogen is a cation (positive ion) with formula H+3, consisting of three hydrogen nuclei (protons) sharing two electrons.
 >

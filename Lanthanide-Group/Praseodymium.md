@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21955]
 [Name-en::Praseodymium]
 [Name-de::Praseodym]
-[Abbr::Pr]
+(Abbr::Pr)
 [Weight-u::140.9077]
 [AtomRadius::2.67]
 [Atom-Vol-ccm-mol::20.8]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.125]
 [Enthalpy::6.89]
 [FormEnergy-kj-mol::296.8]
-[PeriodNo::6]
-[GroupNo::25]
+(PeriodNo::6)
+(GroupNo::25)
 []
-[Charge-e::59]
+(Charge-e::59)
 

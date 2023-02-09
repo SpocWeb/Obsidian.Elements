@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21997]
 [Name-en::Nobelium]
 [Name-de::Nobelium]
-[Abbr::No]
+(Abbr::No)
 [Weight-u::254]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.1]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::36]
+(PeriodNo::7)
+(GroupNo::36)
 []
-[Charge-e::102]
+(Charge-e::102)
 

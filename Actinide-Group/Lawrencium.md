@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21998]
 [Name-en::Lawrencium]
 [Name-de::Lawrencium]
-[Abbr::Lr]
+(Abbr::Lr)
 [Weight-u::257]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::37]
+(PeriodNo::7)
+(GroupNo::37)
 []
-[Charge-e::103]
+(Charge-e::103)
 

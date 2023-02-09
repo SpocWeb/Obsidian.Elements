@@ -5,7 +5,7 @@ GroupName: Group-08-Iron
 [[SpocWebEntityId::21942]
 [Name-en::Ruthenium]
 [Name-de::Ruthenium]
-[Abbr::Ru]
+(Abbr::Ru)
 [Weight-u::101.07]
 [AtomRadius::1.89]
 [Atom-Vol-ccm-mol::8.3]
@@ -19,8 +19,8 @@ GroupName: Group-08-Iron
 [HeatConduct::1.17]
 [Enthalpy::24]
 [FormEnergy-kj-mol::595]
-[PeriodNo::5]
-[GroupNo::8]
+(PeriodNo::5)
+(GroupNo::8)
 []
-[Charge-e::44]
+(Charge-e::44)
 

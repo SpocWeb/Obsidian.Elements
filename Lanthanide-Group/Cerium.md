@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21954]
 [Name-en::Cerium]
 [Name-de::Cer]
-[Abbr::Ce]
+(Abbr::Ce)
 [Weight-u::140.12]
 [AtomRadius::2.7]
 [Atom-Vol-ccm-mol::20.67]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.114]
 [Enthalpy::5.46]
 [FormEnergy-kj-mol::414]
-[PeriodNo::6]
-[GroupNo::24]
+(PeriodNo::6)
+(GroupNo::24)
 []
-[Charge-e::58]
+(Charge-e::58)
 

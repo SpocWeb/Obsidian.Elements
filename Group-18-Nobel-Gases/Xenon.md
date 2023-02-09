@@ -5,7 +5,7 @@ GroupName: Group-18-Nobel-Gases
 [[SpocWebEntityId::21950]
 [Name-en::Xenon]
 [Name-de::Xenon]
-[Abbr::Xe]
+(Abbr::Xe)
 [Weight-u::131.29]
 [AtomRadius::1.24]
 [Atom-Vol-ccm-mol::37.3]
@@ -19,8 +19,8 @@ GroupName: Group-18-Nobel-Gases
 [HeatConduct::5.7E-05]
 [Enthalpy::2.297]
 [FormEnergy-kj-mol::12.636]
-[PeriodNo::5]
-[GroupNo::18]
+(PeriodNo::5)
+(GroupNo::18)
 []
-[Charge-e::54]
+(Charge-e::54)
 

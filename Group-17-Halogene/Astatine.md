@@ -5,7 +5,7 @@ GroupName: Group-17-Halogene
 [[SpocWebEntityId::21980]
 [Name-en::Astatine]
 [Name-de::Astat]
-[Abbr::At]
+(Abbr::At)
 [Weight-u::210]
 [AtomRadius::1.43]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Group-17-Halogene
 [HeatConduct::0.017]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::6]
-[GroupNo::17]
+(PeriodNo::6)
+(GroupNo::17)
 []
-[Charge-e::85]
+(Charge-e::85)
 

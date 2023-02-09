@@ -5,7 +5,7 @@ GroupName: Group-13-Boron
 [[SpocWebEntityId::21976]
 [Name-en::Thallium]
 [Name-de::Thallium]
-[Abbr::Tl]
+(Abbr::Tl)
 [Weight-u::204.383]
 [AtomRadius::2.08]
 [Atom-Vol-ccm-mol::17.2]
@@ -19,8 +19,8 @@ GroupName: Group-13-Boron
 [HeatConduct::0.461]
 [Enthalpy::4.142]
 [FormEnergy-kj-mol::164.1]
-[PeriodNo::6]
-[GroupNo::13]
+(PeriodNo::6)
+(GroupNo::13)
 []
-[Charge-e::81]
+(Charge-e::81)
 

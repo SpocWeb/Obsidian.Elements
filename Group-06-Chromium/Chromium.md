@@ -17,10 +17,10 @@ GroupName: Group-06-Chromium
 [HeatConduct::0.937]
 [Enthalpy::16.9]
 [FormEnergy-kj-mol::344.3]
-[PeriodNo::4]
+(PeriodNo::4)
 [[SpocWebEntityId::21924]
 
-> **Chromium** is a chemical element with the symbol [Abbr::Cr] and atomic number [Charge-e::24]. It is the first element in group [GroupNo::6]. It is a steely-grey, lustrous, hard, and brittle transition metal.Chromium metal is valued for its high corrosion resistance and hardness. A major development in steel production was the discovery that steel could be made highly resistant to corrosion and discoloration by adding metallic chromium to form stainless steel. Stainless steel and chrome plating (electroplating with chromium) together comprise 85% of the commercial use. Chromium is also greatly valued as a metal that is able to be highly polished while resisting tarnishing. Polished chromium reflects almost 70% of the visible spectrum, and almost 90% of infrared light. The name of the element is derived from the Greek word χρῶμα, chrōma, meaning color, because many chromium compounds are intensely colored.
+> **Chromium** is a chemical element with the symbol (Abbr::Cr) and atomic number (Charge-e::24). It is the first element in group (GroupNo::6). It is a steely-grey, lustrous, hard, and brittle transition metal.Chromium metal is valued for its high corrosion resistance and hardness. A major development in steel production was the discovery that steel could be made highly resistant to corrosion and discoloration by adding metallic chromium to form stainless steel. Stainless steel and chrome plating (electroplating with chromium) together comprise 85% of the commercial use. Chromium is also greatly valued as a metal that is able to be highly polished while resisting tarnishing. Polished chromium reflects almost 70% of the visible spectrum, and almost 90% of infrared light. The name of the element is derived from the Greek word χρῶμα, chrōma, meaning color, because many chromium compounds are intensely colored.
 >
 > Industrial production of chromium proceeds from chromite ore (mostly FeCr2O4) to produce ferrochromium, an iron-chromium alloy, by means of aluminothermic or silicothermic reactions. Ferrochromium is then used to produce alloys such as stainless steel. Pure chromium metal is produced by a different process: roasting and leaching of chromite to separate it from iron, followed by reduction with carbon and then aluminium.
 >

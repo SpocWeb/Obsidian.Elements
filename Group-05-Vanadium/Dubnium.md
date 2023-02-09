@@ -17,12 +17,12 @@ GroupName: Group-05-Vanadium
 [HeatConduct::0]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::5]
+(PeriodNo::7)
+(GroupNo::5)
 [[SpocWebEntityId::22000]
 
 
-> Dubnium is a synthetic chemical element with the symbol [Abbr::Db] and atomic number [Charge-e::105]. It is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 16 hours. This greatly limits extended research on the element.
+> Dubnium is a synthetic chemical element with the symbol (Abbr::Db) and atomic number (Charge-e::105). It is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 16 hours. This greatly limits extended research on the element.
 >
 > Dubnium does not occur naturally on Earth and is produced artificially. The Soviet Joint Institute for Nuclear Research (JINR) claimed the first discovery of the element in 1968, followed by the American Lawrence Berkeley Laboratory in 1970. Both teams proposed their names for the new element and used them without formal approval. The long-standing dispute was resolved in 1993 by an official investigation of the discovery claims by the Transfermium Working Group, formed by the International Union of Pure and Applied Chemistry and the International Union of Pure and Applied Physics, resulting in credit for the discovery being officially shared between both teams. The element was formally named dubnium in 1997 after the town of Dubna, the site of the JINR.
 >

@@ -5,7 +5,7 @@ GroupName: Group-17-Halogene
 [[SpocWebEntityId::21933]
 [Name-en::Bromine]
 [Name-de::Brom]
-[Abbr::Br]
+(Abbr::Br)
 [Weight-u::79.904]
 [AtomRadius::1.12]
 [Atom-Vol-ccm-mol::23.5]
@@ -19,8 +19,8 @@ GroupName: Group-17-Halogene
 [HeatConduct::0.00122]
 [Enthalpy::5.286]
 [FormEnergy-kj-mol::15.438]
-[PeriodNo::4]
-[GroupNo::17]
+(PeriodNo::4)
+(GroupNo::17)
 []
-[Charge-e::35]
+(Charge-e::35)
 

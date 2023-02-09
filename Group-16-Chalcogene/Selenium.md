@@ -5,7 +5,7 @@ GroupName: Group-16-Chalcogene
 [[SpocWebEntityId::21932]
 [Name-en::Selenium]
 [Name-de::Selen]
-[Abbr::Se]
+(Abbr::Se)
 [Weight-u::78.96]
 [AtomRadius::1.22]
 [Atom-Vol-ccm-mol::16.45]
@@ -19,8 +19,8 @@ GroupName: Group-16-Chalcogene
 [HeatConduct::0.0204]
 [Enthalpy::6.694]
 [FormEnergy-kj-mol::37.7]
-[PeriodNo::4]
-[GroupNo::16]
+(PeriodNo::4)
+(GroupNo::16)
 []
-[Charge-e::34]
+(Charge-e::34)
 

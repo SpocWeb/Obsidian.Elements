@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21956]
 [Name-en::Neodymium]
 [Name-de::Neodym]
-[Abbr::Nd]
+(Abbr::Nd)
 [Weight-u::144.24]
 [AtomRadius::2.64]
 [Atom-Vol-ccm-mol::20.6]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.165]
 [Enthalpy::7.14]
 [FormEnergy-kj-mol::273]
-[PeriodNo::6]
-[GroupNo::26]
+(PeriodNo::6)
+(GroupNo::26)
 []
-[Charge-e::60]
+(Charge-e::60)
 

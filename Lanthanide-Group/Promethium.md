@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21957]
 [Name-en::Promethium]
 [Name-de::Promethium]
-[Abbr::Pm]
+(Abbr::Pm)
 [Weight-u::147]
 [AtomRadius::2.62]
 [Atom-Vol-ccm-mol::22.39]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.179]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::6]
-[GroupNo::27]
+(PeriodNo::6)
+(GroupNo::27)
 []
-[Charge-e::61]
+(Charge-e::61)
 

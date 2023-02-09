@@ -5,7 +5,7 @@ GroupName: Group-13-Boron
 [[SpocWebEntityId::21929]
 [Name-en::Gallium]
 [Name-de::Gallium]
-[Abbr::Ga]
+(Abbr::Ga)
 [Weight-u::69.723]
 [AtomRadius::1.81]
 [Atom-Vol-ccm-mol::11.8]
@@ -19,8 +19,8 @@ GroupName: Group-13-Boron
 [HeatConduct::0.406]
 [Enthalpy::5.59]
 [FormEnergy-kj-mol::258.7]
-[PeriodNo::4]
-[GroupNo::13]
+(PeriodNo::4)
+(GroupNo::13)
 []
-[Charge-e::31]
+(Charge-e::31)
 

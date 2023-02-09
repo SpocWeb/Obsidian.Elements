@@ -5,7 +5,7 @@ GroupName: Group-18-Nobel-Gases
 [[SpocWebEntityId::21912]
 [Name-en::Neon]
 [Name-de::Neon]
-[Abbr::Ne]
+(Abbr::Ne)
 [Weight-u::20.17]
 [AtomRadius::0.51]
 [Atom-Vol-ccm-mol::16.7]
@@ -19,8 +19,8 @@ GroupName: Group-18-Nobel-Gases
 [HeatConduct::0.000493]
 [Enthalpy::0.3317]
 [FormEnergy-kj-mol::1.7326]
-[PeriodNo::2]
-[GroupNo::18]
+(PeriodNo::2)
+(GroupNo::18)
 []
-[Charge-e::10]
+(Charge-e::10)
 

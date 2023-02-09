@@ -5,7 +5,7 @@ GroupName: Group-15-Nitrogen
 [[SpocWebEntityId::21909]
 [Name-en::Nitrogen]
 [Name-de::Stickstoff]
-[Abbr::N]
+(Abbr::N)
 [Weight-u::14.0067]
 [AtomRadius::0.75]
 [Atom-Vol-ccm-mol::17.3]
@@ -19,8 +19,8 @@ GroupName: Group-15-Nitrogen
 [HeatConduct::0.00026]
 [Enthalpy::0.3604]
 [FormEnergy-kj-mol::2.7928]
-[PeriodNo::2]
-[GroupNo::15]
+(PeriodNo::2)
+(GroupNo::15)
 []
-[Charge-e::7]
+(Charge-e::7)
 

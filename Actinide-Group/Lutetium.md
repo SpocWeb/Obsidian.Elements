@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21967]
 [Name-en::Lutetium]
 [Name-de::Lutetium]
-[Abbr::Lu]
+(Abbr::Lu)
 [Weight-u::174.967]
 [AtomRadius::2.25]
 [Atom-Vol-ccm-mol::17.78]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.164]
 [Enthalpy::18.6]
 [FormEnergy-kj-mol::355.9]
-[PeriodNo::6]
-[GroupNo::37]
+(PeriodNo::6)
+(GroupNo::37)
 []
-[Charge-e::71]
+(Charge-e::71)
 

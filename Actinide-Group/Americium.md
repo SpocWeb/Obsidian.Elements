@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21990]
 [Name-en::Americium]
 [Name-de::Americium]
-[Abbr::Am]
+(Abbr::Am)
 [Weight-u::243]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::17.86]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::14.4]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::29]
+(PeriodNo::7)
+(GroupNo::29)
 []
-[Charge-e::95]
+(Charge-e::95)
 

@@ -5,7 +5,7 @@ GroupName: Group-14-Carbon
 [[SpocWebEntityId::21930]
 [Name-en::Germanium]
 [Name-de::Germanium]
-[Abbr::Ge]
+(Abbr::Ge)
 [Weight-u::72.59]
 [AtomRadius::1.52]
 [Atom-Vol-ccm-mol::13.6]
@@ -19,8 +19,8 @@ GroupName: Group-14-Carbon
 [HeatConduct::0.599]
 [Enthalpy::36.94]
 [FormEnergy-kj-mol::330.9]
-[PeriodNo::4]
-[GroupNo::14]
+(PeriodNo::4)
+(GroupNo::14)
 []
-[Charge-e::32]
+(Charge-e::32)
 

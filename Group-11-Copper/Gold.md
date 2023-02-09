@@ -5,7 +5,7 @@ GroupName: Group-11-Copper
 [[SpocWebEntityId::17995]
 [Name-en::Gold]
 [Name-de::Gold]
-[Abbr::Au]
+(Abbr::Au)
 [Weight-u::196.9665]
 [AtomRadius::1.79]
 [Atom-Vol-ccm-mol::10.2]
@@ -19,8 +19,8 @@ GroupName: Group-11-Copper
 [HeatConduct::3.17]
 [Enthalpy::12.55]
 [FormEnergy-kj-mol::334.4]
-[PeriodNo::6]
-[GroupNo::11]
+(PeriodNo::6)
+(GroupNo::11)
 []
-[Charge-e::79]
+(Charge-e::79)
 

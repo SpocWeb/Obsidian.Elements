@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21994]
 [Name-en::Einsteinium]
 [Name-de::Einsteinium]
-[Abbr::Es]
+(Abbr::Es)
 [Weight-u::254]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::33]
+(PeriodNo::7)
+(GroupNo::33)
 []
-[Charge-e::99]
+(Charge-e::99)
 

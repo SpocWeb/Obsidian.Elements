@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21987]
 [Name-en::Uranium]
 [Name-de::Uran]
-[Abbr::U]
+(Abbr::U)
 [Weight-u::238.0289]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::12.59]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.276]
 [Enthalpy::8.52]
 [FormEnergy-kj-mol::477]
-[PeriodNo::7]
-[GroupNo::26]
+(PeriodNo::7)
+(GroupNo::26)
 []
-[Charge-e::92]
+(Charge-e::92)
 

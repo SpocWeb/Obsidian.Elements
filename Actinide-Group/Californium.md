@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21993]
 [Name-en::Californium]
 [Name-de::Californium]
-[Abbr::Cf]
+(Abbr::Cf)
 [Weight-u::249]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::32]
+(PeriodNo::7)
+(GroupNo::32)
 []
-[Charge-e::98]
+(Charge-e::98)
 

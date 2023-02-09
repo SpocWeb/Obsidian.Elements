@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21991]
 [Name-en::Curium]
 [Name-de::Curium]
-[Abbr::Cm]
+(Abbr::Cm)
 [Weight-u::247]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::18.28]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::15]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::30]
+(PeriodNo::7)
+(GroupNo::30)
 []
-[Charge-e::96]
+(Charge-e::96)
 

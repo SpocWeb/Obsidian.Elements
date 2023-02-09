@@ -5,7 +5,7 @@ GroupName: Group-18-Nobel-Gases
 [[SpocWebEntityId::21934]
 [Name-en::Krypton]
 [Name-de::Krypton]
-[Abbr::Kr]
+(Abbr::Kr)
 [Weight-u::83.8]
 [AtomRadius::1.03]
 [Atom-Vol-ccm-mol::38.9]
@@ -19,8 +19,8 @@ GroupName: Group-18-Nobel-Gases
 [HeatConduct::9.5E-05]
 [Enthalpy::1.638]
 [FormEnergy-kj-mol::9.029]
-[PeriodNo::4]
-[GroupNo::18]
+(PeriodNo::4)
+(GroupNo::18)
 []
-[Charge-e::36]
+(Charge-e::36)
 

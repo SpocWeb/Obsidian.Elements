@@ -5,7 +5,7 @@ GroupName: Group-10-Nickel
 [[SpocWebEntityId::21974]
 [Name-en::Platinum]
 [Name-de::Platin]
-[Abbr::Pt]
+(Abbr::Pt)
 [Weight-u::195.08]
 [AtomRadius::1.83]
 [Atom-Vol-ccm-mol::9.1]
@@ -19,8 +19,8 @@ GroupName: Group-10-Nickel
 [HeatConduct::0.716]
 [Enthalpy::19.6]
 [FormEnergy-kj-mol::510]
-[PeriodNo::6]
-[GroupNo::10]
+(PeriodNo::6)
+(GroupNo::10)
 []
-[Charge-e::78]
+(Charge-e::78)
 

@@ -5,7 +5,7 @@ GroupName: Group-16-Chalcogene
 [[SpocWebEntityId::21979]
 [Name-en::Polonium]
 [Name-de::Polonium]
-[Abbr::Po]
+(Abbr::Po)
 [Weight-u::209]
 [AtomRadius::1.53]
 [Atom-Vol-ccm-mol::22.23]
@@ -19,8 +19,8 @@ GroupName: Group-16-Chalcogene
 [HeatConduct::0.2]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::6]
-[GroupNo::16]
+(PeriodNo::6)
+(GroupNo::16)
 []
-[Charge-e::84]
+(Charge-e::84)
 

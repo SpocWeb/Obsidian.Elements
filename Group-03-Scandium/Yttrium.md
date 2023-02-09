@@ -18,10 +18,10 @@ GroupName: Group-03-Scandium
 [HeatConduct::0.172]
 [Enthalpy::11.4]
 [FormEnergy-kj-mol::363]
-[PeriodNo::5]
-[GroupNo::3]
+(PeriodNo::5)
+(GroupNo::3)
 
-> **Yttrium** is a chemical element with the symbol [Abbr::Y] and atomic number [Charge-e::39]. It is a silvery-metallic transition metal chemically similar to the lanthanides and has often been classified as a "rare-earth element". Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and is never found in nature as a free element. 89Y is the only stable isotope, and the only isotope found in the Earth's crust.
+> **Yttrium** is a chemical element with the symbol (Abbr::Y) and atomic number (Charge-e::39). It is a silvery-metallic transition metal chemically similar to the lanthanides and has often been classified as a "rare-earth element". Yttrium is almost always found in combination with lanthanide elements in rare-earth minerals, and is never found in nature as a free element. 89Y is the only stable isotope, and the only isotope found in the Earth's crust.
 >
 > The most important uses of yttrium are LEDs and phosphors, particularly the red phosphors in television set cathode ray tube displays. Yttrium is also used in the production of electrodes, electrolytes, electronic filters, lasers, superconductors, various medical applications, and tracing various materials to enhance their properties.
 >

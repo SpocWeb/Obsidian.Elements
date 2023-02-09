@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21964]
 [Name-en::Erbium]
 [Name-de::Erbium]
-[Abbr::Er]
+(Abbr::Er)
 [Weight-u::167.26]
 [AtomRadius::2.45]
 [Atom-Vol-ccm-mol::18.4]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.143]
 [Enthalpy::19.9]
 [FormEnergy-kj-mol::261]
-[PeriodNo::6]
-[GroupNo::34]
+(PeriodNo::6)
+(GroupNo::34)
 []
-[Charge-e::68]
+(Charge-e::68)
 

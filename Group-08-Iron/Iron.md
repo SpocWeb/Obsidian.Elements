@@ -5,7 +5,7 @@ GroupName: Group-08-Iron
 [[SpocWebEntityId::16528]
 [Name-en::Iron]
 [Name-de::Eisen]
-[Abbr::Fe]
+(Abbr::Fe)
 [Weight-u::55.847]
 [AtomRadius::1.72]
 [Atom-Vol-ccm-mol::7.1]
@@ -19,8 +19,8 @@ GroupName: Group-08-Iron
 [HeatConduct::0.802]
 [Enthalpy::13.8]
 [FormEnergy-kj-mol::349.6]
-[PeriodNo::4]
-[GroupNo::8]
+(PeriodNo::4)
+(GroupNo::8)
 []
-[Charge-e::26]
+(Charge-e::26)
 

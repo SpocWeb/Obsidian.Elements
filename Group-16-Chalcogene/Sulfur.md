@@ -5,7 +5,7 @@ GroupName: Group-16-Chalcogene
 [[SpocWebEntityId::21917]
 [Name-en::Sulfur]
 [Name-de::Schwefel]
-[Abbr::S]
+(Abbr::S)
 [Weight-u::32.066]
 [AtomRadius::1.09]
 [Atom-Vol-ccm-mol::15.5]
@@ -19,8 +19,8 @@ GroupName: Group-16-Chalcogene
 [HeatConduct::0.00269]
 [Enthalpy::1.7175]
 [FormEnergy-kj-mol::0]
-[PeriodNo::3]
-[GroupNo::16]
+(PeriodNo::3)
+(GroupNo::16)
 []
-[Charge-e::16]
+(Charge-e::16)
 

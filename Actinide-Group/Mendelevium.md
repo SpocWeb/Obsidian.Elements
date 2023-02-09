@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21996]
 [Name-en::Mendelevium]
 [Name-de::Mendelevium]
-[Abbr::Md]
+(Abbr::Md)
 [Weight-u::256]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::35]
+(PeriodNo::7)
+(GroupNo::35)
 []
-[Charge-e::101]
+(Charge-e::101)
 

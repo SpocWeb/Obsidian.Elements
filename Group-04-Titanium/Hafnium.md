@@ -5,7 +5,7 @@ GroupName: Group-04-Titanium
 [[SpocWebEntityId::21968]
 [Name-en::Hafnium]
 [Name-de::Hafnium]
-[Abbr::Hf]
+(Abbr::Hf)
 [Weight-u::178.49]
 [AtomRadius::2.16]
 [Atom-Vol-ccm-mol::13.6]
@@ -19,8 +19,8 @@ GroupName: Group-04-Titanium
 [HeatConduct::0.23]
 [Enthalpy::24.06]
 [FormEnergy-kj-mol::575]
-[PeriodNo::6]
-[GroupNo::4]
+(PeriodNo::6)
+(GroupNo::4)
 []
-[Charge-e::72]
+(Charge-e::72)
 

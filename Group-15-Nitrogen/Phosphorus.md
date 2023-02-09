@@ -5,7 +5,7 @@ GroupName: Group-15-Nitrogen
 [[SpocWebEntityId::21916]
 [Name-en::Phosphorus]
 [Name-de::Phosphor]
-[Abbr::P]
+(Abbr::P)
 [Weight-u::30.9738]
 [AtomRadius::1.23]
 [Atom-Vol-ccm-mol::17]
@@ -19,8 +19,8 @@ GroupName: Group-15-Nitrogen
 [HeatConduct::0.00235]
 [Enthalpy::0.657]
 [FormEnergy-kj-mol::12.129]
-[PeriodNo::3]
-[GroupNo::15]
+(PeriodNo::3)
+(GroupNo::15)
 []
-[Charge-e::15]
+(Charge-e::15)
 

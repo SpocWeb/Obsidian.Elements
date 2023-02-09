@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21995]
 [Name-en::Fermium]
 [Name-de::Fermium]
-[Abbr::Fm]
+(Abbr::Fm)
 [Weight-u::253]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.1]
 [Enthalpy::0]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::34]
+(PeriodNo::7)
+(GroupNo::34)
 []
-[Charge-e::100]
+(Charge-e::100)
 

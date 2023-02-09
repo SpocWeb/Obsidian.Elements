@@ -5,7 +5,7 @@ GroupName: Group-15-Nitrogen
 [[SpocWebEntityId::21931]
 [Name-en::Arsenic]
 [Name-de::Arsen]
-[Abbr::As]
+(Abbr::As)
 [Weight-u::74.9216]
 [AtomRadius::1.33]
 [Atom-Vol-ccm-mol::13.1]
@@ -19,8 +19,8 @@ GroupName: Group-15-Nitrogen
 [HeatConduct::0.5]
 [Enthalpy::0]
 [FormEnergy-kj-mol::34.76]
-[PeriodNo::4]
-[GroupNo::15]
+(PeriodNo::4)
+(GroupNo::15)
 []
-[Charge-e::33]
+(Charge-e::33)
 

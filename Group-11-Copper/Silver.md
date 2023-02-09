@@ -5,7 +5,7 @@ GroupName: Group-11-Copper
 [[SpocWebEntityId::17799]
 [Name-en::Silver]
 [Name-de::Silber]
-[Abbr::Ag]
+(Abbr::Ag)
 [Weight-u::107.868]
 [AtomRadius::1.75]
 [Atom-Vol-ccm-mol::10.3]
@@ -19,8 +19,8 @@ GroupName: Group-11-Copper
 [HeatConduct::4.29]
 [Enthalpy::11.3]
 [FormEnergy-kj-mol::250.58]
-[PeriodNo::5]
-[GroupNo::11]
+(PeriodNo::5)
+(GroupNo::11)
 []
-[Charge-e::47]
+(Charge-e::47)
 

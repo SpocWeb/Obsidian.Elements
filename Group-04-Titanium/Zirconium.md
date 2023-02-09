@@ -17,8 +17,8 @@ GroupName: Group-04-Titanium
 [HeatConduct::0.227]
 [Enthalpy::16.9]
 [FormEnergy-kj-mol::58.2]
-[PeriodNo::5]
-[GroupNo::4]
+(PeriodNo::5)
+(GroupNo::4)
 [[SpocWebEntityId::21938]
 
 

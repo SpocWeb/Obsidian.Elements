@@ -17,11 +17,11 @@ GroupName: Group-01-Alkali
 [HeatConduct::0.359]
 [Enthalpy::2.092]
 [FormEnergy-kj-mol::67.74]
-[PeriodNo::6]
-[GroupNo::1]
+(PeriodNo::6)
+(GroupNo::1)
 
 
-> **Caesium** (IUPAC spelling) (or cesium in American English) is a chemical element with the symbol [Abbr::Cs] and atomic number [Charge-e::55]. It is a soft, silvery-golden alkali metal with a melting point of [MeltingPoint::28.4] °C (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium has physical and chemical properties similar to those of rubidium and potassium. It is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least electronegative element, with a value of [Electronegative::0.79] on the Pauling scale. It has only one stable isotope, caesium-133. Caesium is mined mostly from pollucite. The element has 40 known isotopes, making it, along with barium and mercury, one of the elements with the most isotopes. Caesium-137, a fission product, is extracted from waste produced by nuclear reactors.
+> **Caesium** (IUPAC spelling) (or cesium in American English) is a chemical element with the symbol (Abbr::Cs) and atomic number (Charge-e::55). It is a soft, silvery-golden alkali metal with a melting point of [MeltingPoint::28.4] °C (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium has physical and chemical properties similar to those of rubidium and potassium. It is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least electronegative element, with a value of [Electronegative::0.79] on the Pauling scale. It has only one stable isotope, caesium-133. Caesium is mined mostly from pollucite. The element has 40 known isotopes, making it, along with barium and mercury, one of the elements with the most isotopes. Caesium-137, a fission product, is extracted from waste produced by nuclear reactors.
 >
 > The German chemist Robert Bunsen and physicist Gustav Kirchhoff discovered caesium in 1860 by the newly developed method of flame spectroscopy. The first small-scale applications for caesium were as a "getter" in vacuum tubes and in photoelectric cells. In 1967, acting on Einstein's proof that the speed of light is the most-constant dimension in the universe, the International System of Units used two specific wave counts from an emission spectrum of caesium-133 to co-define the second and the metre. Since then, caesium has been widely used in highly accurate atomic clocks.
 >

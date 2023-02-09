@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21960]
 [Name-en::Gadolinium]
 [Name-de::Gadolinium]
-[Abbr::Gd]
+(Abbr::Gd)
 [Weight-u::157.25]
 [AtomRadius::2.54]
 [Atom-Vol-ccm-mol::19.9]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.106]
 [Enthalpy::10.05]
 [FormEnergy-kj-mol::359.4]
-[PeriodNo::6]
-[GroupNo::30]
+(PeriodNo::6)
+(GroupNo::30)
 []
-[Charge-e::64]
+(Charge-e::64)
 

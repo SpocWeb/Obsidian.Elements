@@ -5,7 +5,7 @@ GroupName: Group-17-Halogene
 [[SpocWebEntityId::21918]
 [Name-en::Chlorine]
 [Name-de::Chlor]
-[Abbr::Cl]
+(Abbr::Cl)
 [Weight-u::35.453]
 [AtomRadius::0.97]
 [Atom-Vol-ccm-mol::22.7]
@@ -19,8 +19,8 @@ GroupName: Group-17-Halogene
 [HeatConduct::8.9E-05]
 [Enthalpy::3.203]
 [FormEnergy-kj-mol::10.2]
-[PeriodNo::3]
-[GroupNo::17]
+(PeriodNo::3)
+(GroupNo::17)
 []
-[Charge-e::17]
+(Charge-e::17)
 

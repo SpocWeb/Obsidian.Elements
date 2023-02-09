@@ -5,7 +5,7 @@ GroupName: Group-01-Alkali
 [[SpocWebEntityId::21935]
 [Name-en::Rubidium]
 [Name-de::Rubidium]
-[Abbr::Rb]
+(Abbr::Rb)
 [Weight-u::85.4678]
 [AtomRadius::2.98]
 [Atom-Vol-ccm-mol::55.9]
@@ -19,8 +19,8 @@ GroupName: Group-01-Alkali
 [HeatConduct::0.582]
 [Enthalpy::2.192]
 [FormEnergy-kj-mol::72.216]
-[PeriodNo::5]
-[GroupNo::1]
+(PeriodNo::5)
+(GroupNo::1)
 []
-[Charge-e::37]
+(Charge-e::37)
 

@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21963]
 [Name-en::Holmium]
 [Name-de::Holmium]
-[Abbr::Ho]
+(Abbr::Ho)
 [Weight-u::164.9304]
 [AtomRadius::2.47]
 [Atom-Vol-ccm-mol::18.7]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.162]
 [Enthalpy::0]
 [FormEnergy-kj-mol::241]
-[PeriodNo::6]
-[GroupNo::33]
+(PeriodNo::6)
+(GroupNo::33)
 []
-[Charge-e::67]
+(Charge-e::67)
 

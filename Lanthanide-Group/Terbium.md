@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21961]
 [Name-en::Terbium]
 [Name-de::Terbium]
-[Abbr::Tb]
+(Abbr::Tb)
 [Weight-u::158.9254]
 [AtomRadius::2.51]
 [Atom-Vol-ccm-mol::19.2]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.111]
 [Enthalpy::10.8]
 [FormEnergy-kj-mol::330.9]
-[PeriodNo::6]
-[GroupNo::31]
+(PeriodNo::6)
+(GroupNo::31)
 []
-[Charge-e::65]
+(Charge-e::65)
 

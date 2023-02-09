@@ -5,7 +5,7 @@ GroupName: Lanthanide-Group
 [[SpocWebEntityId::21966]
 [Name-en::Ytterbium]
 [Name-de::Ytterbium]
-[Abbr::Yb]
+(Abbr::Yb)
 [Weight-u::173.04]
 [AtomRadius::2.4]
 [Atom-Vol-ccm-mol::24.79]
@@ -19,8 +19,8 @@ GroupName: Lanthanide-Group
 [HeatConduct::0.349]
 [Enthalpy::7.66]
 [FormEnergy-kj-mol::128.9]
-[PeriodNo::6]
-[GroupNo::36]
+(PeriodNo::6)
+(GroupNo::36)
 []
-[Charge-e::70]
+(Charge-e::70)
 

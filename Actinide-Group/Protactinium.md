@@ -5,7 +5,7 @@ GroupName: Actinide-Group
 [[SpocWebEntityId::21986]
 [Name-en::Protactinium]
 [Name-de::Protactinium]
-[Abbr::Pa]
+(Abbr::Pa)
 [Weight-u::231.0359]
 [AtomRadius::0]
 [Atom-Vol-ccm-mol::15]
@@ -19,8 +19,8 @@ GroupName: Actinide-Group
 [HeatConduct::0.47]
 [Enthalpy::12.3]
 [FormEnergy-kj-mol::0]
-[PeriodNo::7]
-[GroupNo::25]
+(PeriodNo::7)
+(GroupNo::25)
 []
-[Charge-e::91]
+(Charge-e::91)
 

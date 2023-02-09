@@ -5,7 +5,7 @@ GroupName: Group-12-Zinc
 [[SpocWebEntityId::21928]
 [Name-en::Zinc]
 [Name-de::Zink]
-[Abbr::Zn]
+(Abbr::Zn)
 [Weight-u::65.39]
 [AtomRadius::1.53]
 [Atom-Vol-ccm-mol::9.2]
@@ -19,8 +19,8 @@ GroupName: Group-12-Zinc
 [HeatConduct::1.16]
 [Enthalpy::7.322]
 [FormEnergy-kj-mol::115.3]
-[PeriodNo::4]
-[GroupNo::12]
+(PeriodNo::4)
+(GroupNo::12)
 []
-[Charge-e::30]
+(Charge-e::30)
 

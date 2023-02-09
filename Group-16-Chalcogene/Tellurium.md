@@ -5,7 +5,7 @@ GroupName: Group-16-Chalcogene
 [[SpocWebEntityId::21948]
 [Name-en::Tellurium]
 [Name-de::Tellur]
-[Abbr::Te]
+(Abbr::Te)
 [Weight-u::127.6]
 [AtomRadius::1.42]
 [Atom-Vol-ccm-mol::20.5]
@@ -19,8 +19,8 @@ GroupName: Group-16-Chalcogene
 [HeatConduct::0.0235]
 [Enthalpy::17.49]
 [FormEnergy-kj-mol::52.55]
-[PeriodNo::5]
-[GroupNo::16]
+(PeriodNo::5)
+(GroupNo::16)
 []
-[Charge-e::53]
+(Charge-e::53)
 

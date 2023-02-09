@@ -5,7 +5,7 @@ GroupName: Group-07-Manganese
 [[SpocWebEntityId::21941]
 [Name-en::Technetium]
 [Name-de::Technetium]
-[Abbr::Tc]
+(Abbr::Tc)
 [Weight-u::98.9062]
 [AtomRadius::1.95]
 [Atom-Vol-ccm-mol::0]
@@ -19,8 +19,8 @@ GroupName: Group-07-Manganese
 [HeatConduct::0.506]
 [Enthalpy::24]
 [FormEnergy-kj-mol::660]
-[PeriodNo::5]
-[GroupNo::7]
+(PeriodNo::5)
+(GroupNo::7)
 []
-[Charge-e::43]
+(Charge-e::43)
 

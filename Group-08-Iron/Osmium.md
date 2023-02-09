@@ -5,7 +5,7 @@ GroupName: Group-08-Iron
 [[SpocWebEntityId::21972]
 [Name-en::Osmium]
 [Name-de::Osmium]
-[Abbr::Os]
+(Abbr::Os)
 [Weight-u::192.2]
 [AtomRadius::1.92]
 [Atom-Vol-ccm-mol::8.49]
@@ -19,8 +19,8 @@ GroupName: Group-08-Iron
 [HeatConduct::0.876]
 [Enthalpy::31.8]
 [FormEnergy-kj-mol::746]
-[PeriodNo::6]
-[GroupNo::8]
+(PeriodNo::6)
+(GroupNo::8)
 []
-[Charge-e::76]
+(Charge-e::76)
 
