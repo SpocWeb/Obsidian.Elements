@@ -11,8 +11,8 @@ GroupName: Group-07-Manganese
 [Radius-nm::7.435]
 [Electronegative::1.5]
 [Density::7.43]
-[MeltingPoint::1244]
-[BoilingPoint::1962]
+[MeltingPoint-C::1244]
+[BoilingPoint-C::1962]
 [HeatCapacity::0.48]
 [HeatConduct::0.0782]
 [Enthalpy::12.05]
@@ -29,3 +29,5 @@ GroupName: Group-07-Manganese
 > Manganese was first isolated in 1774. It is familiar in the laboratory in the form of the deep violet salt potassium permanganate. It occurs at the active sites in some enzymes. Of particular interest is the use of a Mn-O cluster, the oxygen-evolving complex, in the production of oxygen by plants.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manganese)
+
+
