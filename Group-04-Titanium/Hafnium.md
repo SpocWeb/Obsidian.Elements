@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-04-Titanium
 ---
-[[SpocWebEntityId::21968]
+[SpocWebEntityId: 21968
 [Name-en::Hafnium]
 [Name-de::Hafnium]
 (Abbr::Hf)

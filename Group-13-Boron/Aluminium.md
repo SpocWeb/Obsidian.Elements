@@ -19,7 +19,7 @@ GroupName: Group-13-Boron
 [FormEnergy-kj-mol::293.4]
 (PeriodNo::3)
 (GroupNo::13)
-[[SpocWebEntityId::9523]
+[SpocWebEntityId: 9523
 
 > **Aluminium** (aluminum in North American English) is a chemical element with the symbol (Abbr::Al) and atomic number (Charge-e::13). Aluminium has a density lower than those of other common metals, at approximately one third that of steel. It has a great affinity towards oxygen, and forms a protective layer of oxide on the surface when exposed to air. Aluminium visually resembles silver, both in its color and in its great ability to reflect light. It is soft, non-magnetic and ductile. It has one stable isotope, 27Al; this isotope is very common, making aluminium the twelfth most common element in the Universe. The radioactivity of 26Al is used in radiodating.
 >

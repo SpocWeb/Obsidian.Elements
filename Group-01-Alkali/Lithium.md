@@ -2,7 +2,7 @@
 type: Element
 GroupName: Group-01-Alkali
 ---
-[[SpocWebEntityId::21906]
+[SpocWebEntityId: 21906
 [Name-en::Lithium]
 [Name-de::Lithium]
 (Abbr::Li)

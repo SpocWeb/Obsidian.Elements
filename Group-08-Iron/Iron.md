@@ -18,7 +18,7 @@ GroupName: Group-08-Iron
 [Enthalpy::13.8]
 [FormEnergy-kj-mol::349.6]
 (PeriodNo::4)
-[[SpocWebEntityId::16528]
+[SpocWebEntityId: 16528
 
 
 > **Iron** ( or ) is a chemical element with symbol (Abbr::Fe) (from Latin: ferrum) and atomic number (Charge-e::26). It is a metal that belongs to the first transition series and group (GroupNo::8) of the periodic table. It is, by mass, the most common element on Earth, just ahead of oxygen (32.1% and 30.1%, respectively), forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust, being mainly deposited by meteorites in its metallic state, with its ores also being found there.

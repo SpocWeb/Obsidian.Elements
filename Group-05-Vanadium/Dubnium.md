@@ -19,7 +19,7 @@ GroupName: Group-05-Vanadium
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::5)
-[[SpocWebEntityId::22000]
+[SpocWebEntityId: 22000
 
 
 > Dubnium is a synthetic chemical element with the symbol (Abbr::Db) and atomic number (Charge-e::105). It is highly radioactive: the most stable known isotope, dubnium-268, has a half-life of about 16 hours. This greatly limits extended research on the element.

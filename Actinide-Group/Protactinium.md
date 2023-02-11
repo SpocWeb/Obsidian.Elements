@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[[SpocWebEntityId::21986]
+[SpocWebEntityId: 21986
 [Name-en::Protactinium]
 [Name-de::Protactinium]
 (Abbr::Pa)

@@ -19,7 +19,7 @@ GroupName: Group-02-Earth-Alkaline
 [FormEnergy-kj-mol::144]
 (PeriodNo::5)
 (GroupNo::2)
-[[SpocWebEntityId::21936]
+[SpocWebEntityId: 21936
 
 > **Strontium** is the chemical element with the symbol (Abbr::Sr) and atomic number (Charge-e::38). An alkaline earth metal, strontium is a soft silver-white yellowish metallic element that is highly chemically reactive. The metal forms a dark oxide layer when it is exposed to air. Strontium has physical and chemical properties similar to those of its two vertical neighbors in the periodic table, calcium and barium. It occurs naturally mainly in the minerals celestine and strontianite, and is mostly mined from these.
 >

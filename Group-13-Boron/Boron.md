@@ -19,7 +19,7 @@ GroupName: Group-13-Boron
 [FormEnergy-kj-mol::489.7]
 (PeriodNo::2)
 (GroupNo::13)
-[[SpocWebEntityId::21908]
+[SpocWebEntityId: 21908
 
 
 > **Boron** is a chemical element with the symbol (Abbr::B) and atomic number (Charge-e::5). In its crystalline form it is a brittle, dark, lustrous metalloid; in its amorphous form it is a brown powder. As the lightest element of the boron group it has three valence electrons for forming covalent bonds, resulting in many compounds such as boric acid, the mineral sodium borate, and the ultra-hard crystals of boron carbide and boron nitride.

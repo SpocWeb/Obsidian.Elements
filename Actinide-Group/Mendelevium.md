@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[[SpocWebEntityId::21996]
+[SpocWebEntityId: 21996
 [Name-en::Mendelevium]
 [Name-de::Mendelevium]
 (Abbr::Md)

@@ -18,7 +18,7 @@ GroupName: Group-05-Vanadium
 [Enthalpy::31.6]
 [FormEnergy-kj-mol::743]
 (PeriodNo::6)
-[[SpocWebEntityId::21969]
+[SpocWebEntityId: 21969
 
 
 > **Tantalum** is a chemical element with the symbol (Abbr::Ta) and atomic number (Charge-e::73). Previously known as tantalium, it is named after Tantalus, a figure in Greek mythology. Tantalum is a very hard, ductile, lustrous, blue-gray transition metal that is highly corrosion-resistant. It is part of the refractory metals group, which are widely used as components of strong high-melting-point alloys. It is a group (GroupNo::5) element, along with [[vanadium]] and [[niobium]], and it always occurs in geologic sources together with the chemically similar niobium, mainly in the mineral groups tantalite, columbite and coltan. 

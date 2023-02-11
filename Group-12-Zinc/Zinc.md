@@ -19,7 +19,7 @@ GroupName: Group-12-Zinc
 [FormEnergy-kj-mol::115.3]
 (PeriodNo::4)
 (GroupNo::12)
-[[SpocWebEntityId::21928]
+[SpocWebEntityId: 21928
 
 
 > **Zinc** is a chemical element with the symbol (Abbr::Zn) and atomic number (Charge-e::30). Zinc is a slightly brittle metal at room temperature and has a shiny-greyish appearance when oxidation is removed. It is the first element in group 12 (IIB) of the periodic table. In some respects, zinc is chemically similar to magnesium: both elements exhibit only one normal oxidation state (+2), and the Zn2+ and Mg2+ ions are of similar size. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite (zinc blende), a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).

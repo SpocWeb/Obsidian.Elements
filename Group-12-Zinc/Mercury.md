@@ -19,7 +19,7 @@ GroupName: Group-12-Zinc
 [FormEnergy-kj-mol::59.229]
 (PeriodNo::6)
 (GroupNo::12)
-[[SpocWebEntityId::21975]
+[SpocWebEntityId: 21975
 
 
 

@@ -19,7 +19,7 @@ GroupName: Group-05-Vanadium
 [FormEnergy-kj-mol::0]
 (PeriodNo::4)
 (GroupNo::5)
-[[SpocWebEntityId::21923]
+[SpocWebEntityId: 21923
 
 
 > **Vanadium** is a chemical element with the symbol (Abbr::V) and atomic number (Charge-e::23). It is a hard, silvery-grey, malleable transition metal. The elemental metal is rarely found in nature, but once isolated artificially, the formation of an oxide layer (passivation) somewhat stabilizes the free metal against further oxidation.

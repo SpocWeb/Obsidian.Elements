@@ -18,7 +18,7 @@ GroupName: Group-02-Earth-Alkaline
 [HeatConduct::0.184]
 [Enthalpy::7.75]
 [FormEnergy-kj-mol::142]
-[[SpocWebEntityId::21952]
+[SpocWebEntityId: 21952
 
 
 > **Barium** is a chemical element with the symbol (Abbr::Ba) and atomic number (Charge-e::56). It is the fifth element ((PeriodNo::6)) in group (GroupNo::2) and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element.

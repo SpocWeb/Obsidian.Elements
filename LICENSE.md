@@ -2,8 +2,8 @@ Mozilla Public License Version 2.0
 ==================================
 
 1. Definitions
---------------
-
+-----------
+---
 1.1. "Contributor"
     means each individual or legal entity that creates, contributes to
     the creation of, or owns Covered Software.
@@ -84,8 +84,8 @@ Mozilla Public License Version 2.0
     ownership of such entity.
 
 2. License Grants and Conditions
---------------------------------
-
+-----------------------------
+---
 2.1. Grants
 
 Each Contributor hereby grants You a world-wide, royalty-free,
@@ -155,8 +155,8 @@ Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted
 in Section 2.1.
 
 3. Responsibilities
--------------------
-
+----------------
+---
 3.1. Distribution of Source Form
 
 All distribution of Covered Software in Source Code Form, including any
@@ -217,8 +217,8 @@ disclaimers of warranty and limitations of liability specific to any
 jurisdiction.
 
 4. Inability to Comply Due to Statute or Regulation
----------------------------------------------------
-
+------------------------------------------------
+---
 If it is impossible for You to comply with any of the terms of this
 License with respect to some or all of the Covered Software due to
 statute, judicial order, or regulation then You must: (a) comply with
@@ -230,8 +230,8 @@ or regulation, such description must be sufficiently detailed for a
 recipient of ordinary skill to be able to understand it.
 
 5. Termination
---------------
-
+-----------
+---
 5.1. The rights granted under this License will terminate automatically
 if You fail to comply with any of its terms. However, if You become
 compliant, then the rights granted under this License from a particular
@@ -301,8 +301,8 @@ prior to termination shall survive termination.
 ************************************************************************
 
 8. Litigation
--------------
-
+----------
+---
 Any litigation relating to this License may be brought only in the
 courts of a jurisdiction where the defendant maintains its principal
 place of business and such litigation shall be governed by laws of that
@@ -311,8 +311,8 @@ Nothing in this Section shall prevent a party's ability to bring
 cross-claims or counter-claims.
 
 9. Miscellaneous
-----------------
-
+-------------
+---
 This License represents the complete agreement concerning the subject
 matter hereof. If any provision of this License is held to be
 unenforceable, such provision shall be reformed only to the extent
@@ -321,8 +321,8 @@ that the language of a contract shall be construed against the drafter
 shall not be used to construe this License against a Contributor.
 
 10. Versions of the License
----------------------------
-
+------------------------
+---
 10.1. New Versions
 
 Mozilla Foundation is the license steward. Except as provided in Section
@@ -353,8 +353,8 @@ Secondary Licenses under the terms of this version of the License, the
 notice described in Exhibit B of this License must be attached.
 
 Exhibit A - Source Code Form License Notice
--------------------------------------------
-
+----------------------------------------
+---
   This Source Code Form is subject to the terms of the Mozilla Public
   License, v. 2.0. If a copy of the MPL was not distributed with this
   file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -367,7 +367,7 @@ for such a notice.
 You may add additional accurate notices of copyright ownership.
 
 Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
-
+------------------------------------------------------
+---
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.

@@ -2,7 +2,7 @@
 type: Element
 GroupName: Actinide-Group
 ---
-[[SpocWebEntityId::21991]
+[SpocWebEntityId: 21991
 [Name-en::Curium]
 [Name-de::Curium]
 (Abbr::Cm)

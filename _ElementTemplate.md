@@ -1,8 +1,10 @@
 ---
 type: Element
-tags: [Element]
+SpocWebEntityId: {{SpocWebEntityId}}
+tags:
+- chemic/Element
+
 ---
-[[SpocWebEntityId::{{KWebEntityId}}]
 [Name-en::{{English}}]
 [Name-de::{{Deutsch}}]
 [Abbr::{{Abbreviation}}]

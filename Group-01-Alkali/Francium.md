@@ -20,7 +20,7 @@ GroupName: Group-01-Alkali
 [FormEnergy-kj-mol::0]
 (PeriodNo::7)
 (GroupNo::1)
-[[SpocWebEntityId::21982]
+[SpocWebEntityId: 21982
 
 > **Francium** is a chemical element with the symbol (Abbr::Fr) and atomic number (Charge-e::87). It is extremely radioactive; its most stable isotope, francium-223 (originally called actinium K after the natural decay chain in which it appears), has a half-life of only 22 minutes. It is the second-most electropositive element, behind only caesium, and is the second rarest naturally occurring element (after astatine). The isotopes of francium decay quickly into astatine, radium, and radon. The electronic structure of a francium atom is [Rn] 7s1, and so the element is classed as an alkali metal.
 >
